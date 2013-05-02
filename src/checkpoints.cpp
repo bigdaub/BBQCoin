@@ -27,10 +27,17 @@ namespace Checkpoints
         (     1, uint256("0x65a7f2baaefd3e45d6f355fee028d0e1012b9639bfaf21d8db4ee81a86df41aa"))
         (     8, uint256("0x8614eae7441737fa1c862713ecce5a7251136931887d6767f02ca439961a9b5a"))
         (    32, uint256("0x19ed170b3ecbb228ee085869ed8afdaf1ade6e57045b03d9e0a05c8c7e3b5f75"))
+<<<<<<< HEAD
         (100000, uint256("0x4ed87fd1d6d62608cd2f87899cd2489c1296013cf30af3d2beac3e060e57d6bd"))
         (200000, uint256("0x6f694594a1a0185807742e0c24f8c535d082fa6e5eebf358825be10349de80ed"))
         (300000, uint256("0xd8eb4bfc48c622e6e18ddb8ec24a784d220afa31c19eadf4b9acbd3cc2869f64"))
         (363628, uint256("0xf8359e909751dbe88fa3824378602c4bb24b36da3d24f940b4c27eab4f4fa3bb"))
+=======
+        (   674, uint256("0xd70cd046b76ab8bd9af9953fa56d852f6a671a1f009322c63b096071723ec8d4"))
+        ( 86425, uint256("0x5bb676c3ea2d9cdc2589e7fa53874c425317aa9dadf0ae503fb7cf804cab9762"))
+        (303403, uint256("0x6d7493ffc82a9553cf20ffca41ace762c3e4e7db4fe6f820675cdf387116342f"))
+        (350000, uint256("0xd637294e567884acc789daa2aa12705d918a9545fd96ea6088e979df858fac31"))
+>>>>>>> 7fc723d451755a4bb18337546653d88a385f7f43
         ;
 /*
     static MapCheckpoints mapCheckpointsTestnet =
